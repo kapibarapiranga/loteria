@@ -53,11 +53,10 @@ print("Bem-Vind ao Programa LoTo 2000")
 sorteio()
 
 # Processa os jogos feitos
-numJogos = int(input("Digite o número de Jogos: "))
 jogosRealizados()
 
 # Imprime na tela o resultado dos jogos
-resultado(numJogos)
+resultado(len(jogosFeitos))
 
 # Fim do Programa
 print("\n\n\nObrigd")
