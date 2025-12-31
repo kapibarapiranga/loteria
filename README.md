@@ -10,4 +10,5 @@ Pequeno script para conferir resultado da loteria (Mega Sena)
 '#Jogo, para os demais
 
 ### A Fazer
+- Lidar com jogos desdobramentos (Jogos com mais de 6 dezenas)
 - Gravar o resultado em um arquivo .txt
